@@ -3,7 +3,7 @@
   <img alt="loaf" src="https://tryloaf.app/assets/lockup-light.svg" width="160">
 </picture>
 
-loaf is a native Mac browser i’m designing and building with Swift and WebKit.
+[loaf](https://github.com/tryloaf/loaf) is a native Mac browser i’m designing and building with Swift and WebKit.
 
 i’m [owen van vooren](https://owen.uno), a designer and developer from Minnesota. i work on apps, websites, and interfaces. loaf is an exploration of how a browser can work when its interface is treated as a system of its own, rather than a collection of familiar browser controls.
 
